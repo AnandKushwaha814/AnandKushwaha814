@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/techyanand1" target="blank"><img src="https://img.shields.io/twitter/follow/techyanand1?logo=twitter&style=for-the-badge" alt="techyanand1" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **React Js**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/codewithfun](https://linktr.ee/codewithfun)
+- 👨‍💻 My PortFolio https://anand-kushwaha.netlify.app/
 
 - 💬 Ask me about **Android , React**
 
